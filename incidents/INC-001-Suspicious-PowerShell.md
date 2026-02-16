@@ -28,6 +28,11 @@ index=win10_13_sysmon EventID=1 Image="*powershell.exe*" CommandLine="*-enc*"
 - Parent Image: explorer.exe
 - Host: DESKTOP-A5RQE1G
 
+## Screenshots
+
+### Splunk Detection Query
+![Splunk Search Result](../screenshots/INC-001-splunk-search.png)
+
 ## Analysis
 The use of encoded PowerShell commands is a common technique used by attackers to evade detection.
 In this case, the activity was generated intentionally in a lab environment to validate detection logic.
