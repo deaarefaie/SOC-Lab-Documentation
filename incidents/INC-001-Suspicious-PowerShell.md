@@ -31,7 +31,7 @@ index=win10_13_sysmon EventID=1 Image="*powershell.exe*" CommandLine="*-enc*"
 ## Screenshots
 
 ### Splunk Detection Query
-![Splunk Search Result](../screenshots/INC-001-splunk-search.png)
+![Splunk Search Result](../screenshots/INC-001-splunk-search.gif)
 
 ## Analysis
 The use of encoded PowerShell commands is a common technique used by attackers to evade detection.
