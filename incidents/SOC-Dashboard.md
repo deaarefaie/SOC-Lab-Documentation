@@ -44,7 +44,7 @@ This dashboard simulates a real-world SOC monitoring scenario where analysts:
 ## Screenshots
 
 ### Dashboard Overview
-![SOC Dashboard Overview](screenshots/SOC-dashboard-overview.png)
+![SOC Dashboard Overview](../screenshots/SOC-dashboard-overview.png)
 
 
 ## Conclusion
