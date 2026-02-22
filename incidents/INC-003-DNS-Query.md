@@ -36,7 +36,7 @@ Host: DESKTOP-A5RQE1G
 ## Screenshots
 
 ### Splunk Detection Query
-![Splunk Search Result](../screenshots/INC-004-dns-query.png)
+![Splunk Search Result](../screenshots/INC-003-dns-query.png)
 
 Analysis
 
